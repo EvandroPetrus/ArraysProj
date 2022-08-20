@@ -1,11 +1,11 @@
 ﻿  int[] array1 = new int[]{1,2,3,4};
   string[] nomes1 = { "Victor", "Joao" };
   int t1 = DateTime.Now.Millisecond;
-  Console.WriteLine($"Using FOR at {t1} for an {array1.Length} sized array");
+  Console.WriteLine($"Using FOR at {t1}ms for an {array1.Length} sized array.");
 
   for (int i = 0; i < array1.Length; i++){
       while (i < 0){
-          Console.WriteLine ($"Invalid position for selected array index. Actual index searched = {i}");
+          Console.WriteLine ($"Invalid position for selected array index. Actual index searched = {i}.");
           i++;
           if (i == 0){
          
@@ -16,18 +16,18 @@
   }
   int t2 = DateTime.Now.Millisecond;
 
-  Console.WriteLine("Time needed to run: " +(t2 - t1));
+  Console.WriteLine("Time needed to run: " +(t2 - t1)+ "ms.");
   int t3 = DateTime.Now.Millisecond;
 
   // USING FOREACH
 
-  Console.WriteLine($"Using FORAEACH at {t3}");
+  Console.WriteLine($"Using FORAEACH at {t3}ms.");
   foreach (int i in array1)
   {
       Console.WriteLine(i);
   }
   int t4 = DateTime.Now.Millisecond;
-  Console.WriteLine("Time needed to run using FOREACH: " +(t4 - t3));
+  Console.WriteLine("Time needed to run using FOREACH: " +(t4 - t3)+"ms.");
 
  /*CONCLUSION : for iterating an array of 1000+ strings - for is better than foreach
         for iterating over List (non generic) strings - foreach is better than for
@@ -43,4 +43,4 @@
  {
      Console.WriteLine(list1[j]);
  }
- Console.WriteLine ($"Time to sort the list = {(t6-t5)}");
+ Console.WriteLine ($"Time to sort the list = {(t6-t5)}ms.");
