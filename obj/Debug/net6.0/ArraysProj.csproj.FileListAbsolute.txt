@@ -1,0 +1,15 @@
+C:\Users\evand\Desktop\Projects\dotNet Projects\ArraysProj\bin\Debug\net6.0\ArraysProj.exe
+C:\Users\evand\Desktop\Projects\dotNet Projects\ArraysProj\bin\Debug\net6.0\ArraysProj.deps.json
+C:\Users\evand\Desktop\Projects\dotNet Projects\ArraysProj\bin\Debug\net6.0\ArraysProj.runtimeconfig.json
+C:\Users\evand\Desktop\Projects\dotNet Projects\ArraysProj\bin\Debug\net6.0\ArraysProj.dll
+C:\Users\evand\Desktop\Projects\dotNet Projects\ArraysProj\bin\Debug\net6.0\ArraysProj.pdb
+C:\Users\evand\Desktop\Projects\dotNet Projects\ArraysProj\obj\Debug\net6.0\ArraysProj.csproj.AssemblyReference.cache
+C:\Users\evand\Desktop\Projects\dotNet Projects\ArraysProj\obj\Debug\net6.0\ArraysProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evand\Desktop\Projects\dotNet Projects\ArraysProj\obj\Debug\net6.0\ArraysProj.AssemblyInfoInputs.cache
+C:\Users\evand\Desktop\Projects\dotNet Projects\ArraysProj\obj\Debug\net6.0\ArraysProj.AssemblyInfo.cs
+C:\Users\evand\Desktop\Projects\dotNet Projects\ArraysProj\obj\Debug\net6.0\ArraysProj.csproj.CoreCompileInputs.cache
+C:\Users\evand\Desktop\Projects\dotNet Projects\ArraysProj\obj\Debug\net6.0\ArraysProj.dll
+C:\Users\evand\Desktop\Projects\dotNet Projects\ArraysProj\obj\Debug\net6.0\refint\ArraysProj.dll
+C:\Users\evand\Desktop\Projects\dotNet Projects\ArraysProj\obj\Debug\net6.0\ArraysProj.pdb
+C:\Users\evand\Desktop\Projects\dotNet Projects\ArraysProj\obj\Debug\net6.0\ArraysProj.genruntimeconfig.cache
+C:\Users\evand\Desktop\Projects\dotNet Projects\ArraysProj\obj\Debug\net6.0\ref\ArraysProj.dll
